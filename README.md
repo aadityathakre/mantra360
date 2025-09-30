@@ -46,11 +46,3 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 ## License
 
 This project is licensed under the MIT License.
-
-## Contact
-
-For queries or support, please contact Piyush Pine.
-
-[4](https://niem.github.io/model/5.0/ncic/MAKCodeSimpleType/)
-[5](https://copyright.gov.in/Documents/New_Applications/New_Applications_December_2024.pdf)
-[6](https://www.gcpalampur.ac.in/images/-1295426374Abstract_Book.pdf)
