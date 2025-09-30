@@ -1,7 +1,3 @@
-Here’s a simple and clear README file for the GitHub repository https://github.com/piyush-pine/sikkim-bloom-forge based on typical project documentation style. You can customize details as needed:
-
-***
-
 # Sikkim Bloom Forge
 
 ## Overview
