@@ -58,6 +58,15 @@ export default {
           ring: "hsl(var(--sidebar-ring))",
         },
       },
+      backgroundImage: {
+        'gradient-spiritual': 'var(--gradient-spiritual)',
+        'gradient-sacred': 'var(--gradient-sacred)',
+        'gradient-serene': 'var(--gradient-serene)',
+      },
+      boxShadow: {
+        'spiritual': 'var(--shadow-spiritual)',
+        'gentle': 'var(--shadow-gentle)',
+      },
       borderRadius: {
         lg: "var(--radius)",
         md: "calc(var(--radius) - 2px)",
