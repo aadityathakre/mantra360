@@ -1,48 +1,110 @@
+
 # Sikkim Bloom Forge
 
-## Overview
+## Overview  
+Sikkim Bloom Forge is a cutting-edge digital platform designed to preserve and promote the rich cultural heritage of Sikkim through immersive technologies. Leveraging **blockchain**, **AI**, and **mixed reality**, the platform offers a unique spiritual and heritage tourism experience to users worldwide.
 
-Sikkim Bloom Forge is a digital platform focused on preserving and promoting the rich cultural heritage of Sikkim through immersive technologies and community engagement. The project leverages blockchain, AI, and mixed reality to create a unique spiritual and heritage tourism experience.
+---
 
-## Features
+## Features  
+- **Immersive 360° virtual tours** of monasteries and heritage sites  
+- **AI-powered personalized storytelling** with emotion-adaptive content  
+- **Blockchain-secured digital artifact storage** ensuring authenticity  
+- **Augmented pilgrimage journeys** with token collections and rewards  
+- Real-time **community dashboards** reflecting visitor and donation activity  
+- **Women-friendly safety features** and emergency integration  
+- **Offline MR pods** enabling heritage experiences without internet connectivity
 
-- Immersive 360° virtual tours of monasteries and heritage sites  
-- AI-powered personalized storytelling and emotion-adaptive content  
-- Blockchain-backed digital artifact storage ensuring authenticity  
-- Augmented pilgrimage with token collections and rewards  
-- Community dashboards for real-time donor and visitor insights  
-- Women-friendly safety features and emergency integration  
-- Offline mixed reality pods for remote heritage site experiences
+---
 
-## Technology Stack
+## Technology Stack  
+- **Frontend:** React.js, Flutter  
+- **Backend:** Node.js, Python  
+- **AI/ML:** TensorFlow, Azure Cognitive Services  
+- **Blockchain:** Ethereum, Hyperledger  
+- **Cloud:** AWS, Google Cloud  
+- **Mixed Reality:** Unity, Unreal Engine  
 
-- Frontend: React.js, Flutter  
-- Backend: Node.js, Python  
-- AI: TensorFlow, Azure Cognitive Services  
-- Blockchain: Ethereum, Hyperledger  
-- Cloud: AWS, Google Cloud  
-- Mixed Reality: Unity, Unreal Engine  
+---
 
-## Installation
+## Installation Guide  
+
+### Prerequisites  
+- Node.js (v14 or higher), npm/yarn  
+- Python 3.x  
+- MongoDB or PostgreSQL database  
+- Ethereum or Hyperledger blockchain access (testnet or mainnet)  
+
+### Steps  
 
 1. Clone the repository:  
-   `git clone https://github.com/piyush-pine/sikkim-bloom-forge.git`  
-2. Install dependencies:  
-   `npm install` or `yarn install`  
-3. Configure environment variables as per the `.env.example` file  
-4. Run the development server:  
-   `npm start` or `yarn start`
+   ```
+   git clone https://github.com/piyush-pine/sikkim-bloom-forge.git
+   cd sikkim-bloom-forge
+   ```
 
-## Usage
+2. Install frontend dependencies:  
+   ```
+   cd frontend
+   npm install
+   # or yarn install
+   ```
 
-- Access the platform via web or mobile app  
-- Explore virtual tours, engage with AI chatbots, and create digital artifacts  
-- Participate in augmented pilgrimages and support heritage preservation efforts  
+3. Install backend dependencies:  
+   ```
+   cd ../backend
+   npm install
+   # or yarn install
+   ```
 
-## Contributing
+4. Configure environment variables:  
+   - Copy `.env.example` to `.env`  
+   - Update keys for blockchain, AI services, and database connections  
 
-Contributions are welcome! Please fork the repository and submit a pull request. For major changes, open an issue first to discuss what you would like to change.
+5. Run servers concurrently in separate terminals:  
+   ```
+   # Backend server
+   cd backend
+   npm start
 
-## License
+   # Frontend server
+   cd ../frontend
+   npm start
+   ```
 
-This project is licensed under the MIT License.
+6. Open your browser and visit `http://localhost:3000` to access the platform.
+
+---
+
+## Usage  
+- Explore virtual tours with rich storytelling  
+- Interact with AI chatbots for legends and spiritual quizzes  
+- Store spiritual artifacts securely using blockchain  
+- Join augmented pilgrimages and earn rewards  
+- Monitor visitor stats and community contributions via dashboards  
+
+---
+
+## Contributing  
+Contributions are welcome! To contribute:  
+
+1. Fork the project  
+2. Create a feature branch (`git checkout -b feature-name`)  
+3. Commit your changes (`git commit -m 'Add some feature'`)  
+4. Push to your branch (`git push origin feature-name`)  
+5. Open a Pull Request for review  
+
+Please open an issue first for large changes.
+
+---
+
+## License  
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## Contact  
+For inquiries or support, please contact Piyush Pine at **vermaandy613@gmail.com**.
+
+---
+
