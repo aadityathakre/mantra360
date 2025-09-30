@@ -104,7 +104,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## Contact  
-For inquiries or support, please contact Piyush Pine at **vermaandy613@gmail.com**.
+For inquiries or support, please contact Aditya at **adityathakre987@gmail.com**.
 
 ---
 
